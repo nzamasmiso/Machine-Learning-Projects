@@ -176,7 +176,6 @@ MALE402_Assignment1_Accommodation_Classification/
 ├── Accomodation.csv
 ├── Accomodation_Affordability_Classification.ipynb
 ├── README.md
-└── requirements.txt
 ```
 
 ---
